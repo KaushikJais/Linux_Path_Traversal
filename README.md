@@ -12,7 +12,7 @@ Problem will have a command line environment, where testing input would be as co
 
 * **main.py** - Run this as **python3 main.py**
 * **linux_path_traversal.py** - This contains all the implementation of input commands.
-* **dist** - It contain **.exe** file named as **main**
+* **dist** - It contain **.exe** file named as **main** . Run it by just double clicking it.
 
 
 ### Output 
