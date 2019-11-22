@@ -11,7 +11,14 @@ Problem will have a command line environment, where testing input would be as co
 ## File Description and How to Run it
 
 * **main.py** - Run this as **python3 main.py**
-* **linux_path_traversal** - This contains all the implementation of input commands.
+* **linux_path_traversal.py** - This contains all the implementation of input commands.
 * **dist** - It contain **.exe** file named as **main**
+
+
+### Output of the commands entered 
+
+
+![alt text](https://github.com/KaushikJais/Linux_Path_Traversal/blob/master/commands.png)
+
 
 
