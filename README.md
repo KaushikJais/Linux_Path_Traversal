@@ -15,8 +15,10 @@ Problem will have a command line environment, where testing input would be as co
 * **dist** - It contain **.exe** file named as **main**
 
 
-### Output of the commands entered 
+### Output 
 
+
+Output of the following Commands in ordered way
 
 ![alt text](https://github.com/KaushikJais/Linux_Path_Traversal/blob/master/commands.png)
 
