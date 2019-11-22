@@ -8,7 +8,10 @@ Problem will have a command line environment, where testing input would be as co
 ![alt text](https://github.com/KaushikJais/Linux_Path_Traversal/blob/master/img_demo.png)
 
 
-##File Description
+## File Description and How to Run it
 
 * **main.py** - Run this as **python3 main.py**
+* **linux_path_traversal** - This contains all the implementation of input commands.
+* **dist** - It contain **.exe** file named as **main**
+
 
