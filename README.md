@@ -15,7 +15,7 @@ Problem will have a command line environment, where testing input would be as co
 * **dist** - It contain **.exe** file named as **main** . Run it by just double clicking it.
 
 
-### Output 
+## Output 
 
 
 Output of the following Commands in ordered way
