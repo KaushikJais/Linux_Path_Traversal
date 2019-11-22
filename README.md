@@ -15,6 +15,19 @@ Problem will have a command line environment, where testing input would be as co
 * **dist** - It contain **.exe** file named as **main** . Run it by just double clicking it.
 
 
+## Generation of executable file from .py using pyinstaller
+
+
+* pip install pyinstaller
+* cd Desktop/Playment
+* pyinstaller --onefile main.py
+* A **build** folder has been generated which contains the executable file **main**
+
+
+![alt text](https://github.com/KaushikJais/Linux_Path_Traversal/blob/master/Converting_to_exe.png)
+
+
+
 ## Output 
 
 
