@@ -1,5 +1,7 @@
 class Node(object):
 
+	#Written by Kaushik Jaiswal
+
 	"""
 		Each Tree Node contains two data members
 
